@@ -1,0 +1,25 @@
+.card {
+    background: #fff;
+    padding: 10px 10px 10px 10px;
+    position: absolute;
+    top: 40%;
+    width: 70%;
+    margin: 0 20%;
+}
+
+.card_portrait > img {
+    width: 200px;
+    height: auto;
+}
+
+.card_portrait {
+    display: block;
+    float: left;
+    padding: 10px 10px 10px 10px;
+}
+
+.card_details {
+    display: block;
+    float: left;
+    padding: 10px 10px 10px 10px;
+}
